@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "plasma",
+    "packageName": "com.jdev.plasma",
+    "packageFolder": "com/jdev/plasma",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": true,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "218ca2bdefef3bc33de3f93d7b5795a45b331f7c"
+  }
+}
